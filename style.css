@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
  }
+
+ :root {
+   --bgBody: #1C1C1C;
+   --veryDarkBlue: #1F2937;
+   --darkBlue: #273549;
+   --primaryGreen: #10B981;
+   --titleDarkMode: #4ADF86;
+   --titleLightMode: #10B981;
+   --mediumGrey: #D5D4D8;
+   --DarkGrey: #6B7280;
+   --passwordDarkMode: #55F991;
+   --passwordLightMode: #5DEF92;
+ }
